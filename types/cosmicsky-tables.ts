@@ -122,6 +122,7 @@ interface StaticPlayerData {
   player_rank?: string
   reputation_points?: number
   discord_id?: string
+  username_last_fetched?: number
 }
 
 // season_player_data
